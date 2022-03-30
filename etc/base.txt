@@ -1,0 +1,4 @@
+django==4.0.3
+django-environ==0.8.1
+celery==5.2.3
+tflite-runtime==2.7.0
